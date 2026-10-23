@@ -1,3 +1,5 @@
+<img src="assets/salvy-icon.png" alt="Salvy" width="96">
+
 # Salvy MCP server
 
 Connect your AI agent to [Salvy](https://salvy.com.br), the business mobile carrier from Brazil. The agent can look up your company's phone lines, usage, invoices and employees, and make changes such as blocking a line or changing a plan.
@@ -85,4 +87,4 @@ A company that is a Salvy customer, and a user with access to the Salvy dashboar
 
 ## Support
 
-contato@salvy.com.br · [Privacy policy](https://salvy.com.br/politica-de-privacidade)
+contato@salvy.com.br · [Privacy policy](https://salvy.com.br/politica-de-privacidade) · [Reporting a vulnerability](SECURITY.md)
