@@ -75,6 +75,7 @@ Any MCP client that supports remote servers over Streamable HTTP with OAuth work
 | Companies | `list_companies` |
 | Phone lines | `list_phone_accounts`, `get_phone_account`, `get_phone_account_usage`, `get_phone_account_timeline`, `list_phone_account_sms_messages`, `update_phone_accounts`, `create_phone_account_group` |
 | Line actions | `create_phone_accounts`, `block_phone_accounts`, `unblock_phone_accounts`, `cancel_phone_accounts`, `unschedule_phone_account_cancellations`, `add_data_to_phone_accounts`, `change_subscription_plan`, `list_subscription_plans` |
+| SIM shipments | `list_sim_card_shipments`, `get_sim_card_shipment` |
 | Portability | `port_number`, `get_portability_status` |
 | Billing | `list_invoices`, `get_invoice`, `get_current_month_estimate`, `get_cost_by_cost_center` |
 | People | `list_employees`, `create_employee`, `list_cost_centers`, `create_cost_center`, `update_cost_center` |
