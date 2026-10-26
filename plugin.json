@@ -1,0 +1,5 @@
+{
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "salvy",
+  "description": "Look up and manage your company's Salvy phone lines, usage, invoices and employees."
+}

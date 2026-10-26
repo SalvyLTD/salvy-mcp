@@ -64,6 +64,14 @@ gemini extensions install https://github.com/SalvyLTD/salvy-mcp
 
 Then run `/mcp auth salvy` inside Gemini CLI to sign in.
 
+### Antigravity
+
+```bash
+agy plugin install https://github.com/SalvyLTD/salvy-mcp
+```
+
+Then open Agent settings → Customizations and click **Authenticate** next to `salvy`.
+
 ### Other clients
 
 Any MCP client that supports remote servers over Streamable HTTP with OAuth works: point it at `https://mcp.salvy.com.br/mcp`.
